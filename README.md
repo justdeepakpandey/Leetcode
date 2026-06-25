@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/justdeepakpandey/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0844-backspace-string-compare](https://github.com/justdeepakpandey/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/justdeepakpandey/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2390-removing-stars-from-a-string](https://github.com/justdeepakpandey/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -60,8 +61,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/justdeepakpandey/Leetcode/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/justdeepakpandey/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/justdeepakpandey/Leetcode/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/justdeepakpandey/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
