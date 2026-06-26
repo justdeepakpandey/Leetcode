@@ -80,4 +80,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/justdeepakpandey/Leetcode/tree/master/0178-rank-scores) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/justdeepakpandey/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
