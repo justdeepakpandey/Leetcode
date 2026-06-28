@@ -10,10 +10,8 @@ class Solution {
             oi=oi+arr[i]-'0';
         }
       }
-      if(ei!=oi){
-        return false;
-      }
-      return true;
+      
+      return ei==oi;
 
     }
 }
