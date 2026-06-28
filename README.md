@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/justdeepakpandey/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/justdeepakpandey/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/justdeepakpandey/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/justdeepakpandey/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1991-find-the-middle-index-in-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2574-left-and-right-sum-differences](https://github.com/justdeepakpandey/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/justdeepakpandey/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Prefix Sum
 |  |
 | ------- |
