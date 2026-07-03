@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/justdeepakpandey/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/justdeepakpandey/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## String
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/justdeepakpandey/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/justdeepakpandey/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/justdeepakpandey/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/justdeepakpandey/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/justdeepakpandey/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/justdeepakpandey/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/justdeepakpandey/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/justdeepakpandey/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Counting
 |  |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0268-missing-number) |
 | [0908-smallest-range-i](https://github.com/justdeepakpandey/Leetcode/tree/master/0908-smallest-range-i) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/justdeepakpandey/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/justdeepakpandey/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/justdeepakpandey/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Greedy
 |  |
@@ -111,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/justdeepakpandey/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/justdeepakpandey/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/justdeepakpandey/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
