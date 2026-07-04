@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/justdeepakpandey/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/justdeepakpandey/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/justdeepakpandey/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2129-capitalize-the-title](https://github.com/justdeepakpandey/Leetcode/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/justdeepakpandey/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/justdeepakpandey/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3340-check-balanced-string](https://github.com/justdeepakpandey/Leetcode/tree/master/3340-check-balanced-string) |
