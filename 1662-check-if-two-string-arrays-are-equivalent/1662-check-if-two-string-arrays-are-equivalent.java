@@ -1,35 +1,32 @@
 class Solution {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
-       StringBuilder sb = new StringBuilder ();
-       StringBuilder sb1 = new StringBuilder ();
-       for(int i=0;i<word1.length;i++){
-        sb.append(word1[i]);
-       }
-       for(int i=0;i<word2.length;i++){
-        sb1.append(word2[i]);
-       }
-       int[] ans1=new int[sb.length()];
-       for(int i=0;i<sb.length();i++){
-           ans1[i]=sb.charAt(i);
-       }
-       int [] ans2=new int[sb1.length()];
-       for(int i=0;i<sb1.length();i++){
-           ans2[i]=sb1.charAt(i);
-       }
-       if(ans1.length!=ans2.length){
-        return false;
-        
-       }
-       int i=0;
-       int j=0;
-       while(i<ans1.length&&j<ans2.length){
-        if(ans1[i]!=ans2[j]){
+        StringBuilder sb1 = new StringBuilder();
+        StringBuilder sb2 = new StringBuilder();
+       
+        for(int i=0;i<word1.length;i++){
+            sb1.append(word1[i]);
+        }
+        for(int i=0;i<word2.length;i++){
+            sb2.append(word2[i]);
+        }
+        if(sb1.length()!=sb2.length()){
             return false;
         }
-        i++;
-        j++;
-       }
+      int i=0;
+      int j=0;
+      while(i<sb1.length()&&j<sb2.length()){
+        if(sb1.charAt(i)!=sb2.charAt(j)){
+            return false;
+
+        }else {
+            i++;
+            j++;
+         
+        }
        
-       return true;
+       
+      }  
+      return true;
+      
     }
 }
