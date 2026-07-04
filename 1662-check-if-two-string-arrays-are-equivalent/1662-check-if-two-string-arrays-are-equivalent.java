@@ -9,24 +9,7 @@ class Solution {
         for(int i=0;i<word2.length;i++){
             sb2.append(word2[i]);
         }
-        if(sb1.length()!=sb2.length()){
-            return false;
-        }
-      int i=0;
-      int j=0;
-      while(i<sb1.length()&&j<sb2.length()){
-        if(sb1.charAt(i)!=sb2.charAt(j)){
-            return false;
-
-        }else {
-            i++;
-            j++;
-         
-        }
-       
-       
-      }  
-      return true;
+       return sb1.toString().equals(sb2.toString());
       
     }
 }
