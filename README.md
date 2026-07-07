@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/justdeepakpandey/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/justdeepakpandey/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/justdeepakpandey/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/justdeepakpandey/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2716-minimize-string-length](https://github.com/justdeepakpandey/Leetcode/tree/master/2716-minimize-string-length) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/justdeepakpandey/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0908-smallest-range-i](https://github.com/justdeepakpandey/Leetcode/tree/master/0908-smallest-range-i) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/justdeepakpandey/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/justdeepakpandey/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/justdeepakpandey/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/justdeepakpandey/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/justdeepakpandey/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/justdeepakpandey/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/justdeepakpandey/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0844-backspace-string-compare](https://github.com/justdeepakpandey/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/justdeepakpandey/Leetcode/tree/master/0917-reverse-only-letters) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/justdeepakpandey/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/justdeepakpandey/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/justdeepakpandey/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/justdeepakpandey/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/justdeepakpandey/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/justdeepakpandey/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/justdeepakpandey/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
