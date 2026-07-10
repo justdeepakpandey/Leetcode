@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/justdeepakpandey/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2716-minimize-string-length](https://github.com/justdeepakpandey/Leetcode/tree/master/2716-minimize-string-length) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/justdeepakpandey/Leetcode/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/justdeepakpandey/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/justdeepakpandey/Leetcode/tree/master/2810-faulty-keyboard) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3330-find-the-original-typed-string-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3330-find-the-original-typed-string-i) |
 | [3340-check-balanced-string](https://github.com/justdeepakpandey/Leetcode/tree/master/3340-check-balanced-string) |
 ## Sliding Window
