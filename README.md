@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/justdeepakpandey/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/justdeepakpandey/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/justdeepakpandey/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/justdeepakpandey/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2000-reverse-prefix-of-word](https://github.com/justdeepakpandey/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/justdeepakpandey/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/justdeepakpandey/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/justdeepakpandey/Leetcode/tree/master/0908-smallest-range-i) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/justdeepakpandey/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/justdeepakpandey/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/justdeepakpandey/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/justdeepakpandey/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
