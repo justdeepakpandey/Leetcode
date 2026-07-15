@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/justdeepakpandey/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/justdeepakpandey/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/justdeepakpandey/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/justdeepakpandey/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/justdeepakpandey/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/justdeepakpandey/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/justdeepakpandey/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/justdeepakpandey/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/justdeepakpandey/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/justdeepakpandey/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/justdeepakpandey/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Prefix Sum
