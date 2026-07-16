@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/justdeepakpandey/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/justdeepakpandey/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/justdeepakpandey/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1528-shuffle-string](https://github.com/justdeepakpandey/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/justdeepakpandey/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/justdeepakpandey/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/justdeepakpandey/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/justdeepakpandey/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/justdeepakpandey/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/justdeepakpandey/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/justdeepakpandey/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/justdeepakpandey/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/justdeepakpandey/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
