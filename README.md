@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/justdeepakpandey/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/justdeepakpandey/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/justdeepakpandey/Leetcode/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/justdeepakpandey/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/justdeepakpandey/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/justdeepakpandey/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/justdeepakpandey/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/justdeepakpandey/Leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/justdeepakpandey/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/justdeepakpandey/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0908-smallest-range-i](https://github.com/justdeepakpandey/Leetcode/tree/master/0908-smallest-range-i) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/justdeepakpandey/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/justdeepakpandey/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/justdeepakpandey/Leetcode/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/justdeepakpandey/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Greedy
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/justdeepakpandey/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/justdeepakpandey/Leetcode/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/justdeepakpandey/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/justdeepakpandey/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
