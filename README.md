@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/justdeepakpandey/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/justdeepakpandey/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/justdeepakpandey/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3330-find-the-original-typed-string-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3330-find-the-original-typed-string-i) |
 | [3340-check-balanced-string](https://github.com/justdeepakpandey/Leetcode/tree/master/3340-check-balanced-string) |
 ## Sliding Window
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/justdeepakpandey/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2810-faulty-keyboard](https://github.com/justdeepakpandey/Leetcode/tree/master/2810-faulty-keyboard) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/justdeepakpandey/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Dynamic Programming
 |  |
 | ------- |
