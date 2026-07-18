@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/justdeepakpandey/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/justdeepakpandey/Leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [3151-special-array-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3151-special-array-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/justdeepakpandey/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
