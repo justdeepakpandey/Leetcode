@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/justdeepakpandey/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/justdeepakpandey/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/justdeepakpandey/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0867-transpose-matrix](https://github.com/justdeepakpandey/Leetcode/tree/master/0867-transpose-matrix) |
 | [0908-smallest-range-i](https://github.com/justdeepakpandey/Leetcode/tree/master/0908-smallest-range-i) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/justdeepakpandey/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/justdeepakpandey/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/justdeepakpandey/Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/justdeepakpandey/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/justdeepakpandey/Leetcode/tree/master/0561-array-partition) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/justdeepakpandey/Leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
