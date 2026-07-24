@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/justdeepakpandey/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/justdeepakpandey/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/justdeepakpandey/Leetcode/tree/master/0290-word-pattern) |
 | [0645-set-mismatch](https://github.com/justdeepakpandey/Leetcode/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/justdeepakpandey/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/justdeepakpandey/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/justdeepakpandey/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/justdeepakpandey/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/justdeepakpandey/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/justdeepakpandey/Leetcode/tree/master/0290-word-pattern) |
 | [0520-detect-capital](https://github.com/justdeepakpandey/Leetcode/tree/master/0520-detect-capital) |
 | [0844-backspace-string-compare](https://github.com/justdeepakpandey/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/justdeepakpandey/Leetcode/tree/master/0917-reverse-only-letters) |
