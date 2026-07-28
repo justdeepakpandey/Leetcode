@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/justdeepakpandey/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3330-find-the-original-typed-string-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3330-find-the-original-typed-string-i) |
 | [3340-check-balanced-string](https://github.com/justdeepakpandey/Leetcode/tree/master/3340-check-balanced-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/justdeepakpandey/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/justdeepakpandey/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2785-sort-vowels-in-a-string](https://github.com/justdeepakpandey/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/justdeepakpandey/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/justdeepakpandey/Leetcode/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/justdeepakpandey/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Matrix
 |  |
 | ------- |
