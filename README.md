@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/justdeepakpandey/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/justdeepakpandey/Leetcode/tree/master/0290-word-pattern) |
+| [0567-permutation-in-string](https://github.com/justdeepakpandey/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/justdeepakpandey/Leetcode/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/justdeepakpandey/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/justdeepakpandey/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/justdeepakpandey/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/justdeepakpandey/Leetcode/tree/master/0290-word-pattern) |
 | [0520-detect-capital](https://github.com/justdeepakpandey/Leetcode/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/justdeepakpandey/Leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/justdeepakpandey/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/justdeepakpandey/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/justdeepakpandey/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/justdeepakpandey/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/justdeepakpandey/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/justdeepakpandey/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Array
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/justdeepakpandey/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/justdeepakpandey/Leetcode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/justdeepakpandey/Leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/justdeepakpandey/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/justdeepakpandey/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/justdeepakpandey/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
