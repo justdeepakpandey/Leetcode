@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/justdeepakpandey/Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/justdeepakpandey/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/justdeepakpandey/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/justdeepakpandey/Leetcode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/justdeepakpandey/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/justdeepakpandey/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/justdeepakpandey/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/justdeepakpandey/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/justdeepakpandey/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/justdeepakpandey/Leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/justdeepakpandey/Leetcode/tree/master/0455-assign-cookies) |
