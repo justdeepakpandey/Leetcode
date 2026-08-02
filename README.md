@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/justdeepakpandey/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/justdeepakpandey/Leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/justdeepakpandey/Leetcode/tree/master/0567-permutation-in-string) |
+| [0657-robot-return-to-origin](https://github.com/justdeepakpandey/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/justdeepakpandey/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/justdeepakpandey/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/justdeepakpandey/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/justdeepakpandey/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/justdeepakpandey/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/justdeepakpandey/Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1929-concatenation-of-array) |
