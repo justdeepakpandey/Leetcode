@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/justdeepakpandey/Leetcode/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/justdeepakpandey/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3697-compute-decimal-representation](https://github.com/justdeepakpandey/Leetcode/tree/master/3697-compute-decimal-representation) |
+| [3701-compute-alternating-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/justdeepakpandey/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/justdeepakpandey/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3379-transformed-array](https://github.com/justdeepakpandey/Leetcode/tree/master/3379-transformed-array) |
+| [3701-compute-alternating-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
