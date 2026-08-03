@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/justdeepakpandey/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/justdeepakpandey/Leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [2951-find-the-peaks](https://github.com/justdeepakpandey/Leetcode/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/justdeepakpandey/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/justdeepakpandey/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3151-special-array-i) |
@@ -373,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/justdeepakpandey/Leetcode/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/justdeepakpandey/Leetcode/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
