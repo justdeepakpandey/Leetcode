@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/justdeepakpandey/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/justdeepakpandey/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3731-find-missing-elements](https://github.com/justdeepakpandey/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/justdeepakpandey/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3697-compute-decimal-representation](https://github.com/justdeepakpandey/Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/justdeepakpandey/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/justdeepakpandey/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/justdeepakpandey/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/justdeepakpandey/Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
