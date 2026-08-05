@@ -420,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/justdeepakpandey/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/justdeepakpandey/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/justdeepakpandey/Leetcode/tree/master/0739-daily-temperatures) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/justdeepakpandey/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
