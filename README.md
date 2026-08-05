@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/justdeepakpandey/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/justdeepakpandey/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/justdeepakpandey/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/justdeepakpandey/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/justdeepakpandey/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/justdeepakpandey/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/justdeepakpandey/Leetcode/tree/master/0189-rotate-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/justdeepakpandey/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/justdeepakpandey/Leetcode/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/justdeepakpandey/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/justdeepakpandey/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0509-fibonacci-number) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/justdeepakpandey/Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/justdeepakpandey/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/justdeepakpandey/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/justdeepakpandey/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/justdeepakpandey/Leetcode/tree/master/0739-daily-temperatures) |
