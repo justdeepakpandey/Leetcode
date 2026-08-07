@@ -6,7 +6,8 @@ class Solution {
             char temp=s[i];
             s[i]=s[j];
             s[j]=temp;
-            i++;j--;
+            i++;
+            j--;
         }
     }
 }
