@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/justdeepakpandey/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/justdeepakpandey/Leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/justdeepakpandey/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/justdeepakpandey/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/justdeepakpandey/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/justdeepakpandey/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/justdeepakpandey/Leetcode/tree/master/0189-rotate-array) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/justdeepakpandey/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/justdeepakpandey/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/justdeepakpandey/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/justdeepakpandey/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/justdeepakpandey/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/justdeepakpandey/Leetcode/tree/master/0647-palindromic-substrings) |
