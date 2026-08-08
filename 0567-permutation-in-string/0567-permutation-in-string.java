@@ -17,10 +17,10 @@ class Solution {
                 if(map.equals(map2)){
                     return true;
                 }
+                break;
                 }
-                if(map2.size()>map.size()){
-                    break;
-                }
+              
+                
             }
         }
         return false;
