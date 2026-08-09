@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/justdeepakpandey/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3330-find-the-original-typed-string-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3330-find-the-original-typed-string-i) |
 | [3340-check-balanced-string](https://github.com/justdeepakpandey/Leetcode/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/justdeepakpandey/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/justdeepakpandey/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/justdeepakpandey/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/justdeepakpandey/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3379-transformed-array](https://github.com/justdeepakpandey/Leetcode/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/justdeepakpandey/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Dynamic Programming
 |  |
