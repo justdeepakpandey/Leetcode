@@ -1,29 +1,17 @@
-import java.util.HashMap;
-
 class Solution {
     public int subarraySum(int[] nums, int k) {
-
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        // sum 0 ek baar already mila hai
-        map.put(0, 1);
-
-        int sum = 0;
-        int count = 0;
-
-        for(int i = 0; i < nums.length; i++) {
-
-            sum = sum + nums[i];
-
-            // check karo (sum - k) pehle mila tha ya nahi
-            if(map.containsKey(sum - k)) {
-                count = count + map.get(sum - k);
+        int count=0;
+        int presum=0;
+        HashMap<Integer,Integer> map= new HashMap<>();
+        map.put(0,1);
+        for(int i=0;i<nums.length;i++){
+            presum+=nums[i];
+          int target=presum-k;
+            if(map.containsKey(target)){
+                count+=map.get(target);
             }
-
-            // current sum map me store karo
-            map.put(sum, map.getOrDefault(sum, 0) + 1);
+            map.put(presum,map.getOrDefault(presum,0)+1);
         }
-
         return count;
     }
 }
