@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/justdeepakpandey/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/justdeepakpandey/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/justdeepakpandey/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/justdeepakpandey/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/justdeepakpandey/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/justdeepakpandey/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/justdeepakpandey/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/justdeepakpandey/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting Sort
 |  |
@@ -476,4 +479,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/justdeepakpandey/Leetcode/tree/master/0002-add-two-numbers) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
