@@ -24,12 +24,12 @@ class Solution {
                     j++;
                     k--;
                 }
-               else if(sum>0){
+                if(sum>0){
                     k--;
                     
 
                 }
-                else if(sum<0){
+                 if(sum<0){
                     j++;
                 }
             }
