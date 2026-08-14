@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/justdeepakpandey/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/justdeepakpandey/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/justdeepakpandey/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/justdeepakpandey/Leetcode/tree/master/0796-rotate-string) |
 | [0830-positions-of-large-groups](https://github.com/justdeepakpandey/Leetcode/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/justdeepakpandey/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/justdeepakpandey/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -487,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/justdeepakpandey/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
