@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/justdeepakpandey/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/justdeepakpandey/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/justdeepakpandey/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2460-apply-operations-to-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/justdeepakpandey/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/justdeepakpandey/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/justdeepakpandey/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/justdeepakpandey/Leetcode/tree/master/2864-maximum-odd-binary-number) |
