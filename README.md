@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/justdeepakpandey/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/justdeepakpandey/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/justdeepakpandey/Leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/justdeepakpandey/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/justdeepakpandey/Leetcode/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/justdeepakpandey/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2864-maximum-odd-binary-number](https://github.com/justdeepakpandey/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/justdeepakpandey/Leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/justdeepakpandey/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/justdeepakpandey/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
