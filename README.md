@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/justdeepakpandey/Leetcode/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/justdeepakpandey/Leetcode/tree/master/0908-smallest-range-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/justdeepakpandey/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/justdeepakpandey/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/justdeepakpandey/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/justdeepakpandey/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/justdeepakpandey/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/justdeepakpandey/Leetcode/tree/master/0867-transpose-matrix) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/justdeepakpandey/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1929-concatenation-of-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/justdeepakpandey/Leetcode/tree/master/2390-removing-stars-from-a-string) |
