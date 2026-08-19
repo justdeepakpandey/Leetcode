@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/justdeepakpandey/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/justdeepakpandey/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/justdeepakpandey/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/justdeepakpandey/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/justdeepakpandey/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/justdeepakpandey/Leetcode/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/justdeepakpandey/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3663-find-the-least-frequent-digit](https://github.com/justdeepakpandey/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/justdeepakpandey/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3697-compute-decimal-representation](https://github.com/justdeepakpandey/Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/justdeepakpandey/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/justdeepakpandey/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/justdeepakpandey/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/justdeepakpandey/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/justdeepakpandey/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Two Pointers
 |  |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/justdeepakpandey/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/justdeepakpandey/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/justdeepakpandey/Leetcode/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/justdeepakpandey/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
