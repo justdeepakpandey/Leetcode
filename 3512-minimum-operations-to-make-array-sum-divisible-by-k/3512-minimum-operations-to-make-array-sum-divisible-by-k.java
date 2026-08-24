@@ -5,13 +5,11 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             sum+=nums[i];
         }
-    if(sum%k==0){
-        return 0;
-    }else{
+    
         while(sum%k!=0){
             sum--;
             count++;
-        }
+        
     }
     return count;
     }
