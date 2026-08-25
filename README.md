@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/justdeepakpandey/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/justdeepakpandey/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/justdeepakpandey/Leetcode/tree/master/2129-capitalize-the-title) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/justdeepakpandey/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2315-count-asterisks](https://github.com/justdeepakpandey/Leetcode/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/justdeepakpandey/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/justdeepakpandey/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/justdeepakpandey/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/justdeepakpandey/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/justdeepakpandey/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/justdeepakpandey/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2460-apply-operations-to-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2460-apply-operations-to-an-array) |
