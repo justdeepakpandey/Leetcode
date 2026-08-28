@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/justdeepakpandey/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/justdeepakpandey/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/justdeepakpandey/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/justdeepakpandey/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/justdeepakpandey/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3151-special-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/justdeepakpandey/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/justdeepakpandey/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/justdeepakpandey/Leetcode/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/justdeepakpandey/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/justdeepakpandey/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/justdeepakpandey/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/justdeepakpandey/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/justdeepakpandey/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/justdeepakpandey/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
