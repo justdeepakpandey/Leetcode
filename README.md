@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/justdeepakpandey/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/justdeepakpandey/Leetcode/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/justdeepakpandey/Leetcode/tree/master/0908-smallest-range-i) |
+| [1137-n-th-tribonacci-number](https://github.com/justdeepakpandey/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/justdeepakpandey/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/justdeepakpandey/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/justdeepakpandey/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/justdeepakpandey/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/justdeepakpandey/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/justdeepakpandey/Leetcode/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/justdeepakpandey/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Database
 |  |
 | ------- |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/justdeepakpandey/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/justdeepakpandey/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Number Theory
 |  |
 | ------- |
