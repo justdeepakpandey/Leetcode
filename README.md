@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/justdeepakpandey/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/justdeepakpandey/Leetcode/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/justdeepakpandey/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1338-reduce-array-size-to-the-half](https://github.com/justdeepakpandey/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/justdeepakpandey/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/justdeepakpandey/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1051-height-checker](https://github.com/justdeepakpandey/Leetcode/tree/master/1051-height-checker) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1338-reduce-array-size-to-the-half](https://github.com/justdeepakpandey/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/justdeepakpandey/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/justdeepakpandey/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/justdeepakpandey/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/justdeepakpandey/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1338-reduce-array-size-to-the-half](https://github.com/justdeepakpandey/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1833-maximum-ice-cream-bars](https://github.com/justdeepakpandey/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/justdeepakpandey/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/justdeepakpandey/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/justdeepakpandey/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/justdeepakpandey/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/justdeepakpandey/Leetcode/tree/master/1051-height-checker) |
+| [1338-reduce-array-size-to-the-half](https://github.com/justdeepakpandey/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/justdeepakpandey/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/justdeepakpandey/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1338-reduce-array-size-to-the-half](https://github.com/justdeepakpandey/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
