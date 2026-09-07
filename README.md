@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/justdeepakpandey/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/justdeepakpandey/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/justdeepakpandey/Leetcode/tree/master/3731-find-missing-elements) |
+| [3889-mirror-frequency-distance](https://github.com/justdeepakpandey/Leetcode/tree/master/3889-mirror-frequency-distance) |
 ## String
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-generate-tag-for-video-caption](https://github.com/justdeepakpandey/Leetcode/tree/master/3582-generate-tag-for-video-caption) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/justdeepakpandey/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/justdeepakpandey/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3889-mirror-frequency-distance](https://github.com/justdeepakpandey/Leetcode/tree/master/3889-mirror-frequency-distance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/justdeepakpandey/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/justdeepakpandey/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/justdeepakpandey/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3889-mirror-frequency-distance](https://github.com/justdeepakpandey/Leetcode/tree/master/3889-mirror-frequency-distance) |
 ## Prefix Sum
 |  |
 | ------- |
