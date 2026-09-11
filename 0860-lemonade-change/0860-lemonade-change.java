@@ -20,16 +20,16 @@ class Solution {
             }
         }
      if(nums[i]==20){
-            if(c5<1){
-                return false;
-
-            }
-            if(c10>=1&&c5>=1){
+           
+            if(c10>0&&c5>0){
                 c5--;
                 c10--;
             }
-            if(c10<1&&c5>=3){
+           else  if(c5>=3){
                 c5=c5-3;
+            }
+            else{
+                return false;
             }
           
         }
