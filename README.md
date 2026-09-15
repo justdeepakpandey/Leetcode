@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/justdeepakpandey/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2347-best-poker-hand](https://github.com/justdeepakpandey/Leetcode/tree/master/2347-best-poker-hand) |
 | [2351-first-letter-to-appear-twice](https://github.com/justdeepakpandey/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2549-count-distinct-numbers-on-board](https://github.com/justdeepakpandey/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2716-minimize-string-length](https://github.com/justdeepakpandey/Leetcode/tree/master/2716-minimize-string-length) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/justdeepakpandey/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/justdeepakpandey/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/justdeepakpandey/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/justdeepakpandey/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/justdeepakpandey/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/justdeepakpandey/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/justdeepakpandey/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/2544-alternating-digit-sum) |
+| [2549-count-distinct-numbers-on-board](https://github.com/justdeepakpandey/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2864-maximum-odd-binary-number](https://github.com/justdeepakpandey/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/justdeepakpandey/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/justdeepakpandey/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/justdeepakpandey/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/justdeepakpandey/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/justdeepakpandey/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2810-faulty-keyboard](https://github.com/justdeepakpandey/Leetcode/tree/master/2810-faulty-keyboard) |
