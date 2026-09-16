@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/justdeepakpandey/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0509-fibonacci-number](https://github.com/justdeepakpandey/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/justdeepakpandey/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/justdeepakpandey/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/justdeepakpandey/Leetcode/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/justdeepakpandey/Leetcode/tree/master/0908-smallest-range-i) |
 | [1137-n-th-tribonacci-number](https://github.com/justdeepakpandey/Leetcode/tree/master/1137-n-th-tribonacci-number) |
