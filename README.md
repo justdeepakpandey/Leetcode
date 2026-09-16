@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/justdeepakpandey/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/justdeepakpandey/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/justdeepakpandey/Leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [2923-find-champion-i](https://github.com/justdeepakpandey/Leetcode/tree/master/2923-find-champion-i) |
 | [2942-find-words-containing-character](https://github.com/justdeepakpandey/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/justdeepakpandey/Leetcode/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/justdeepakpandey/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/justdeepakpandey/Leetcode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/justdeepakpandey/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/justdeepakpandey/Leetcode/tree/master/0867-transpose-matrix) |
+| [2923-find-champion-i](https://github.com/justdeepakpandey/Leetcode/tree/master/2923-find-champion-i) |
 ## Trie
 |  |
 | ------- |
