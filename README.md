@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/justdeepakpandey/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2347-best-poker-hand](https://github.com/justdeepakpandey/Leetcode/tree/master/2347-best-poker-hand) |
 | [2351-first-letter-to-appear-twice](https://github.com/justdeepakpandey/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/justdeepakpandey/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2549-count-distinct-numbers-on-board](https://github.com/justdeepakpandey/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2716-minimize-string-length](https://github.com/justdeepakpandey/Leetcode/tree/master/2716-minimize-string-length) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/justdeepakpandey/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-best-poker-hand](https://github.com/justdeepakpandey/Leetcode/tree/master/2347-best-poker-hand) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/justdeepakpandey/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2404-most-frequent-even-element](https://github.com/justdeepakpandey/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2460-apply-operations-to-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/justdeepakpandey/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/justdeepakpandey/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2347-best-poker-hand](https://github.com/justdeepakpandey/Leetcode/tree/master/2347-best-poker-hand) |
 | [2351-first-letter-to-appear-twice](https://github.com/justdeepakpandey/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/justdeepakpandey/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/justdeepakpandey/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/justdeepakpandey/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/justdeepakpandey/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
