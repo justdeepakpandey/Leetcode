@@ -7,10 +7,8 @@ class Solution {
             }
         }
         Collections.sort(list);
-        int ans=0;
-        if(list.size()<=1){
-            return list.get(0);
-        }
+       
+      
        return list.get(k-1);
     }
 }
