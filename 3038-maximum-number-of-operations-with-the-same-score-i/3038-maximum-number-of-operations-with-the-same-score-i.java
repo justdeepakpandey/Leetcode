@@ -14,7 +14,7 @@ class Solution {
                 break;
             }
             
-            target=sum;
+            // target=sum;
         }
         return count;
     }
