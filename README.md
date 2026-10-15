@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/justdeepakpandey/Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/justdeepakpandey/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/justdeepakpandey/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/justdeepakpandey/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/justdeepakpandey/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3151-special-array-i) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/justdeepakpandey/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/justdeepakpandey/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2810-faulty-keyboard](https://github.com/justdeepakpandey/Leetcode/tree/master/2810-faulty-keyboard) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/justdeepakpandey/Leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/justdeepakpandey/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3379-transformed-array](https://github.com/justdeepakpandey/Leetcode/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/justdeepakpandey/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
