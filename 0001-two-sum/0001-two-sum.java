@@ -1,5 +1,5 @@
 class Solution {
-    public int[] twoSum(int[] nums, int target) { 
+    public int[] twoSum(int[] nums, int target) {
         HashMap<Integer,Integer> map = new HashMap<>();
         for(int i=0;i<nums.length;i++){
             int lk=target-nums[i];
@@ -7,8 +7,7 @@ class Solution {
                 return new int[]{map.get(lk),i};
             }
             map.put(nums[i],i);
-            
-        }   
-        return new int[] {-1,-1}; 
+        }
+        return new int[]{-1,-1};
     }
 }
