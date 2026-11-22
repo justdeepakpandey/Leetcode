@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/justdeepakpandey/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/justdeepakpandey/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3889-mirror-frequency-distance](https://github.com/justdeepakpandey/Leetcode/tree/master/3889-mirror-frequency-distance) |
+| [3931-check-adjacent-digit-differences](https://github.com/justdeepakpandey/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Sliding Window
 |  |
 | ------- |
